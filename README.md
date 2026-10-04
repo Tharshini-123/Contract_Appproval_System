@@ -279,4 +279,5 @@ detection, audit hash-chain determinism, and a full end-to-end API flow.
 MIT — for demonstration and research purposes. Always have qualified counsel
 review any production contract before relying on AI-generated outputs.
 #   C L M  
+ #   C o n t r a c t _ A p p r o v a l _ S y s t e m  
  
